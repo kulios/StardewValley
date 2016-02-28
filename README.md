@@ -1,5 +1,5 @@
 # StardewValley
-Simple program made to find items for foraging.
+Simple program made to find items for foraging. Its far from "perfect", anyone is free to edit it. I will try to add some features (GUI with map showing where item is, selecting save rather than executing program in save folder etc), but now its all i needed ;)
 
 Usage : 
 Just run it inside folder with your save ( Type in "%appdata" and press Enter in Terminal, go to StardewValley/Saves/<YourSave> )
